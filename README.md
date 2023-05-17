@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit-chakraborty-5ab9061b1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sumit-chakraborty-5ab9061b1" height="30" width="40 style="padding-right: 20px;" /></a>
+<a href="https://linkedin.com/in/sumit-chakraborty-5ab9061b1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sumit-chakraborty-5ab9061b1" height="30" width="40"  /></a>
 <a href="https://instagram.com/https://www.instagram.com/sumitchakraborty955/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/sumitchakraborty955/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chakrabortysumit803" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="chakrabortysumit803" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sumitchakraborty9171" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="sumitchakraborty9171" height="30" width="40" /></a>
