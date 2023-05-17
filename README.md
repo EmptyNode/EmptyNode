@@ -6,89 +6,43 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p>
 
-- 🌱 I’m currently learning **Express JS**
-
-- 👨‍💻 All of my projects are available at [sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
-
-- 💬 Ask me about **React, MERN**
-
-- 📫 How to reach me **sumitchakraborty9173@gmail.com**
-
-- ⚡ Fun fact **I love DSA as well as development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumit-chakraborty-5ab9061b1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sumit-chakraborty-5ab9061b1" height="30" width="40"  /></a>
-<a href="https://instagram.com/https://www.instagram.com/sumitchakraborty955/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/sumitchakraborty955/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chakrabortysumit803" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="chakrabortysumit803" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitchakraborty9171" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="sumitchakraborty9171" height="30" width="40" /></a>
-</p>
+# 💫 About Me
+🔭  I’m currently learning **Express JS** <br>
+👯 Looking to collaborate on Web Dev and Open Source Software <br>
+💬 Ask me about **React, MERN** <br>
+⚡ There is no in-between, either I am coding or watching films. <br> 
+📫 How to reach me **sumitchakraborty9173@gmail.com**
+💻 All of my projects are available at [sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
 
 
+## 🌐 Connect With Me 
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40" style="margin-right: 5px;"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40" style="margin-right: 5px;"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40" style="margin-right: 5px;"/></a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="40" height="40" style="margin-right: 5px;"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" alt="firebase" width="40" height="40" style="margin-right: 5px;"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40" style="margin-right: 5px;"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> </p> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-chakraborty-5ab9061b1/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/chakrabortysumit803)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sumitchakraborty9171)
 
 
-<h1>Skills</h1>
+# 💻 Languages and Tech Stack 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 	
 
-<h2>Programming Languages</h2>
-<ul>
-  <li>C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="20" height="20"></li>
-  <li>C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="20" height="20"></li>
-  <li>Java <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" width="20" height="20"></li>
-  <li>JavaScript <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="JavaScript" width="20" height="20"></li>
-</ul>
 
-<h2>Web Development</h2>
-<ul>
-  <li>HTML5 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="20" height="20"></li>
-  <li>CSS3 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="20" height="20"></li>
-  <li>JavaScript (ES6+) <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="JavaScript" width="20" height="20"></li>
-  <li>React.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React.js" width="20" height="20"></li>
-  <li>Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="20" height="20"></li>
-  <li>Express.js <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="20" height="20"></li>
-</ul>
 
-<h2>Databases</h2>
-<ul>
-  <li>MySQL <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="20" height="20"></li>
-  <li>MongoDB <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="20" height="20"></li>
-</ul>
-
-<h2>Other Skills</h2>
-<ul>
-  <li>Version Control (Git) <img src="https://iconape.com/wp-content/files/gm/82643/svg/git-icon.svg" alt="Git" width="20" height="20"></li>
-  <li>Problem Solving</li>
-  <li>Object-Oriented Programming (OOP)</li>
-  <li>Data Structures and Algorithms</li>
-  <li>Test-Driven Development (TDD)</li>
-  <li>Agile Development Methodologies</li>
-</ul>
-
-<h2>Projects</h2>
-<ul>
-  <li>Project A: Brief description or link to the project repository.</li>
-  <li>Project B: Brief description or link to the project repository.</li>
-  <li>Project C: Brief description or link to the project repository.</li>
-</ul>
-
-<p>Feel free to explore my repositories for more examples of my work and projects.</p>
-
-<p>If you have any questions or would like to collaborate, feel free to contact me.</p>
-
+# 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emptynode&show_icons=true&locale=en&layout=compact" alt="emptynode" /></p>
 
