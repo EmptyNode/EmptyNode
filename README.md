@@ -8,8 +8,7 @@
 💻 Solved 250+ problems on GeeksforGeeks and Leetcode<br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, MERN** <br>
-⚡ I exist in two states: either engrossed in coding or indulged in watching films <br> 
-📫 How to reach me **sumitchakraborty9173@gmail.com** <br> 
+⚡ I exist in two states: either engrossed in coding or indulged in watching films<br> 
 💻 All of my projects are available at [sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
 
 <br><br>
