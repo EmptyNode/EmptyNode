@@ -1,25 +1,25 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-
-<h1 align="center">Hi 👋, I'm Sumit Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p>
+<h1 align="center">Namaste, I'm Sumit Chakraborty</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p> -->
 
 # 💫 About Me
 🔭  I’m currently learning **Express JS** <br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, MERN** <br>
-⚡ There is no in-between, either I am coding or watching films. <br> 
-📫 How to reach me **sumitchakraborty9173@gmail.com**
+⚡ There is no in-between, either I am coding or watching films <br> 
+📫 How to reach me **sumitchakraborty9173@gmail.com** <br> 
 💻 All of my projects are available at [sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
 
-
+<br><br>
 ## 🌐 Connect With Me 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-chakraborty-5ab9061b1/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/chakrabortysumit803)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sumitchakraborty9171)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sumitchakraborty9171)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sumitchakraborty955/)
+
+
+<br><br>
 
 
 # 💻 Languages and Tech Stack 
@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
@@ -40,10 +40,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 	
 
 
-
+<br><br>
 # 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emptynode&show_icons=true&locale=en&layout=compact" alt="emptynode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emptynode&show_icons=true&locale=en" alt="emptynode" /></p>
+<br>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyNode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmptyNode&show_icons=true&locale=en&layout=compact&theme=aura"/>
+</td>
+</tr> 
+</table>
+<p align="center">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=EmptyNode&theme=aura"/>
+</p>
 
