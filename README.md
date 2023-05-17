@@ -5,9 +5,10 @@
 
 # 💫 About Me
 🔭  I’m currently learning **Express JS** <br>
+💻 Solved 250+ problems on GeeksforGeeks and Leetcode<br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, MERN** <br>
-⚡ There is no in-between, either I am coding or watching films <br> 
+⚡ I exist in two states: either engrossed in coding or indulged in watching films <br> 
 📫 How to reach me **sumitchakraborty9173@gmail.com** <br> 
 💻 All of my projects are available at [sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
 
