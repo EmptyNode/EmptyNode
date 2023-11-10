@@ -1,4 +1,3 @@
-![logo](https://github.com/EmptyNode/EmptyNode/blob/main/Black%20and%20White%20Modern%20Vintage%20Pharmacy%20Back%20to%20Business%20Landscape%20Banner(1).png)
 <h1 align="center">Namaste
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Sumit Chakraborty</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
