@@ -8,7 +8,7 @@
 🔭  I’m currently learning **Express JS** <br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, Javascript** <br>
-💻 Solved 250+ problems on GeeksforGeeks and Leetcode<br>
+💻 Solved 300+ problems on Leetcode<br>
 ⚡ I exist in two states: either engrossed in coding or indulged in watching films<br> 
 💻 All of my projects are available at [https://sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
 
