@@ -1,4 +1,4 @@
-<h1 align="center">Namaste
+<h1 align="center">Hello
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Sumit Chakraborty</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
