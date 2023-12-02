@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p> -->
 
 # 💫 About Me
-🔭  I’m currently learning **Express JS** <br>
+🔭  I’m currently learning **Next JS** <br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, Javascript** <br>
 💻 Solved 300+ problems on Leetcode<br>
