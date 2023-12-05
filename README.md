@@ -22,7 +22,6 @@
 
 <br>
 
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
