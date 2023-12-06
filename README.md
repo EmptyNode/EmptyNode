@@ -7,7 +7,7 @@
 # 💫 About Me
 🔭  I’m currently learning **Next JS** <br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
-💬 Ask me about **React, Javascript** <br>
+💬 Ask me about **React, Express, Javascript** <br>
 💻 Solved 300+ problems on Leetcode<br>
 ⚡ I exist in two states: either engrossed in coding or indulged in watching films<br> 
 💻 All of my projects are available at [https://sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
