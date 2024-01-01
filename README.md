@@ -9,7 +9,7 @@
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, Express, Javascript** <br>
 ⚡ I exist in two states: either engrossed in coding or indulged in watching movies<br> 
-💻 All of my projects are available at [https://sumitsportfolios.netlify.app](sumitsportfolios.netlify.app)
+💻 All of my projects are available at [https://sumitsportfolios.netlify.app](https://sumitsportfolios.netlify.app)
 
 <br><br>
 ## 🌐 Connect With Me 
