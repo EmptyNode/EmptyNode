@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p> -->
 
 # 💫 About Me
-🔭  I’m currently learning **Next JS** <br>
+🔭  I’m currently learning **Next JS** and **Typescript**<br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 💬 Ask me about **React, Express, Javascript** <br>
 ⚡ I exist in two states: either engrossed in coding or indulged in watching movies<br> 
