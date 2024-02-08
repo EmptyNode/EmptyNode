@@ -5,9 +5,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p> -->
 
 # 💫 About Me
-🔭  I’m currently learning **Next JS** and **Typescript**<br>
+🔭  I’m currently learning **Typescript**<br>
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
-💬 Ask me about **React, Express, Javascript** <br>
+💬 Ask me about **React, Next, Express, Javascript** <br>
 ⚡ I exist in two states: either engrossed in coding or indulged in watching movies<br> 
 💻 All of my projects are available at [https://sumitsportfolios.netlify.app](https://sumitsportfolios.netlify.app)
 
