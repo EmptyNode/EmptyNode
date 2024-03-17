@@ -13,9 +13,9 @@
 
 <br><br>
 ## 🌐 Connect With Me 
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/sumitch31) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-chakraborty-5ab9061b1/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/chakrabortysumit803)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sumitchakraborty9171)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sumitchakraborty955/)
 
 
