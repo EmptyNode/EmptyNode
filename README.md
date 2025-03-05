@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I’m Sumit Chakraborty</h1> <h3 align="center">A Web Development Wizard from India Crafting Digital Excellence</h3>
 💫 About Me
-🔭 I’m diving deep into cloud technologies (think DigitalOcean) to level up my deployment game<br>
+🔭 I’m diving deep into cloud technologies (DigitalOcean) to level up my deployment game<br>
 🌟 Building my own startup: a cutting-edge chess coaching platform to checkmate the competition<br>
 💬 Chat me up about React, Next.js, Express.js, JavaScript—I’m tuned to perfection in these<br>
 🛠️ Already mastered PostgreSQL, MySQL, Socket.IO, WebRTC for real-time, scalable solutions<br>
